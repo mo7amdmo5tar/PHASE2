@@ -1,0 +1,2 @@
+constructor cant be virtual
+destrucour can be virtual
